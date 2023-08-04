@@ -1,0 +1,30 @@
+C:\Users\JOO TECH\Desktop\ITI Tasks\C# tasks\Calculator\bin\Debug\net7.0\Calculator.exe
+C:\Users\JOO TECH\Desktop\ITI Tasks\C# tasks\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Users\JOO TECH\Desktop\ITI Tasks\C# tasks\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+C:\Users\JOO TECH\Desktop\ITI Tasks\C# tasks\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Users\JOO TECH\Desktop\ITI Tasks\C# tasks\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Users\JOO TECH\Desktop\ITI Tasks\C# tasks\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\JOO TECH\Desktop\ITI Tasks\C# tasks\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOO TECH\Desktop\ITI Tasks\C# tasks\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\JOO TECH\Desktop\ITI Tasks\C# tasks\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Users\JOO TECH\Desktop\ITI Tasks\C# tasks\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\JOO TECH\Desktop\ITI Tasks\C# tasks\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Users\JOO TECH\Desktop\ITI Tasks\C# tasks\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Users\JOO TECH\Desktop\ITI Tasks\C# tasks\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Users\JOO TECH\Desktop\ITI Tasks\C# tasks\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+C:\Users\JOO TECH\Desktop\ITI Tasks\C# tasks\Calculator\obj\Debug\net7.0\ref\Calculator.dll
+E:\ITI\ITI\C#\C# OOP tasks\Task Calculator 4-4\bin\Debug\net7.0\Calculator.exe
+E:\ITI\ITI\C#\C# OOP tasks\Task Calculator 4-4\bin\Debug\net7.0\Calculator.deps.json
+E:\ITI\ITI\C#\C# OOP tasks\Task Calculator 4-4\bin\Debug\net7.0\Calculator.runtimeconfig.json
+E:\ITI\ITI\C#\C# OOP tasks\Task Calculator 4-4\bin\Debug\net7.0\Calculator.dll
+E:\ITI\ITI\C#\C# OOP tasks\Task Calculator 4-4\bin\Debug\net7.0\Calculator.pdb
+E:\ITI\ITI\C#\C# OOP tasks\Task Calculator 4-4\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+E:\ITI\ITI\C#\C# OOP tasks\Task Calculator 4-4\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\ITI\C#\C# OOP tasks\Task Calculator 4-4\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+E:\ITI\ITI\C#\C# OOP tasks\Task Calculator 4-4\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+E:\ITI\ITI\C#\C# OOP tasks\Task Calculator 4-4\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+E:\ITI\ITI\C#\C# OOP tasks\Task Calculator 4-4\obj\Debug\net7.0\Calculator.dll
+E:\ITI\ITI\C#\C# OOP tasks\Task Calculator 4-4\obj\Debug\net7.0\refint\Calculator.dll
+E:\ITI\ITI\C#\C# OOP tasks\Task Calculator 4-4\obj\Debug\net7.0\Calculator.pdb
+E:\ITI\ITI\C#\C# OOP tasks\Task Calculator 4-4\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+E:\ITI\ITI\C#\C# OOP tasks\Task Calculator 4-4\obj\Debug\net7.0\ref\Calculator.dll
